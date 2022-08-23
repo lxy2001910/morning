@@ -17,5 +17,4 @@ jobs:
         python-version: 3.7
         
     - name: Update paper list
-      run: |
-        python main.py
+      run: python main.py
